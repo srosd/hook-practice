@@ -40,7 +40,7 @@ export const SimpleForm = () => {
                 <input
                     type="text"
                     name="name"
-                    className="form-control"
+                    className="form-control mb-2"
                     placeholder="Tu nombre"
                     autoComplete="off"
                     value={name}

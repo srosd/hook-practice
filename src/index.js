@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import {HookApp} from './HookApp';
-import {SimpleForm} from './components/02-useEffect/SimpleForm';
+import {TodoApp} from './components/08-useReducer/TodoApp';
 
 
 ReactDOM.render(
-    <SimpleForm  />,
+    <TodoApp  />,
   document.getElementById('root')
 );
 
